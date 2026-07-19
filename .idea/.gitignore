@@ -1,0 +1,10 @@
+# Default ignored files
+/../../expense-splitter./.idea/shelf/
+/../../expense-splitter./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../expense-splitter./.idea/httpRequests/
+# Ignored default folder with query files
+/../../expense-splitter./.idea/queries/
+# Datasource local storage ignored files
+/../../expense-splitter./.idea/dataSources/
+/../../expense-splitter./.idea/dataSources.local.xml
