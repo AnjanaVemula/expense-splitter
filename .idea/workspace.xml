@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8790194-e90b-4316-8d44-9c4a10ecc992" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../expense-splitter/src/main/java/com/expensesplitter/model/Balance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../expense-splitter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../expense-splitter/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8790194-e90b-4316-8d44-9c4a10ecc992" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784452443068</updated>
-      <workItem from="1784452444424" duration="1737000" />
+      <workItem from="1784452444424" duration="2134000" />
     </task>
     <servers />
   </component>
