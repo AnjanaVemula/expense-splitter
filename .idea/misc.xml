@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../expense-splitter/pom.xml" />
+        <option value="$PROJECT_DIR$/../expense-splitter/src/test/java/pom.xml" />
       </list>
     </option>
   </component>
